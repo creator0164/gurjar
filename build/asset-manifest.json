@@ -1,29 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.737ac86b.css",
-    "main.js": "/static/js/main.53978211.js",
-    "static/js/200.35bbd95c.chunk.js": "/static/js/200.35bbd95c.chunk.js",
-    "static/js/539.d45f8100.chunk.js": "/static/js/539.d45f8100.chunk.js",
-    "static/media/logo.png": "/static/media/logo.a97371cc9da89c481ddf.png",
-    "static/media/avatar.png": "/static/media/avatar.0fa175b11df11b199fad.png",
-    "static/media/image2.png": "/static/media/image2.320e9d1ec2c66a05a877.png",
-    "static/media/image3.png": "/static/media/image3.bb94f012010febb67ca7.png",
-    "static/media/image5.png": "/static/media/image5.bf5d93f94f9aee858b04.png",
-    "static/media/image4.png": "/static/media/image4.333452e39a7287e966fb.png",
-    "static/media/image1.png": "/static/media/image1.d1f1214b674b9db6c1bb.png",
-    "static/media/background.png": "/static/media/background.96bde62cb18262035ae4.png",
-    "static/media/Gurjar_person.png": "/static/media/Gurjar_person.e6865bbdad6ddac6d7fd.png",
-    "static/media/google.png": "/static/media/google.cadee8cdb0c0afb1a713.png",
-    "static/media/apple.png": "/static/media/apple.af93bbb9a32b243e840f.png",
-    "static/media/facebook.png": "/static/media/facebook.86b8c5a0e06db8f3d1a3.png",
+    "main.css": "/static/css/main.9554fde3.css",
+    "main.js": "/static/js/main.3acd0b54.js",
     "index.html": "/index.html",
-    "main.737ac86b.css.map": "/static/css/main.737ac86b.css.map",
-    "main.53978211.js.map": "/static/js/main.53978211.js.map",
-    "200.35bbd95c.chunk.js.map": "/static/js/200.35bbd95c.chunk.js.map",
-    "539.d45f8100.chunk.js.map": "/static/js/539.d45f8100.chunk.js.map"
+    "main.9554fde3.css.map": "/static/css/main.9554fde3.css.map",
+    "main.3acd0b54.js.map": "/static/js/main.3acd0b54.js.map"
   },
   "entrypoints": [
-    "static/css/main.737ac86b.css",
-    "static/js/main.53978211.js"
+    "static/css/main.9554fde3.css",
+    "static/js/main.3acd0b54.js"
   ]
 }
